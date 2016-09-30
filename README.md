@@ -2,7 +2,7 @@
 
 #### _Learning to debugging in JavaScript_
 
-#### By _**Stephanie Gurung & Maldon Meehan**_
+#### By _**Meaghan Jones & Maldon Meehan**_
 
 ## Description
 
